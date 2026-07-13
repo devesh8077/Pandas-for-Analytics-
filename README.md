@@ -7,7 +7,7 @@ This repository contains my hands-on practice notebooks for learning **Pandas** 
 
 ## 🚀 Project Contents
 
-### 1. Pandas Practice
+### 1. Pandas 
 
 In this notebook, I practiced:
 
